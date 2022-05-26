@@ -7,7 +7,7 @@ Prodi : D3-Manajemen Informatika
 
 # Hasil Praktikum
 
-![1](img/1.png)
-![2](img/2.png)
-![3](img/3.png)
-![4](img/4.png)
+![1](assets/1.png)
+![2](assets/2.png)
+![3](assets/3.png)
+![4](assets/4.png)
